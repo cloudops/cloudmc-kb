@@ -1,14 +1,4 @@
 categories:
-  - category: category1
-    icon: fa fa-address-book
-    featured: true
-    articles:
-      - article1
-  - category: category2
-    icon: fa fa-address-book-o
-    articles:
-      - article2
-      - article3
   - category: Single-Entrypoint
     icon: fa crosshairs
     articles:
