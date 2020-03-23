@@ -3,7 +3,6 @@ title: Stockage Objet - Terminologie
 slug: stockage-objet-terminologie
 ---
 
-# Stockage Objet - Terminologie
 
 **Swift :** Nom du logiciel que nous utilisons pour fournir le service de stockage objet.
 

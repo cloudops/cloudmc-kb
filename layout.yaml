@@ -12,3 +12,9 @@ categories:
   - category: object-storage-service
     articles:
       - object-storage-terminology
+  - category:  vpn
+    articles:
+      - cca-using-remote-access-ikev2
+      - cca-client-config-mac
+      - cca-client-config-windows
+      - cca-client-config-ubuntu
