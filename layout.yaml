@@ -1,30 +1,30 @@
 categories:
 - category: general
-   articles:
+  articles:
       - cloud.ca-in-a-nutshell.md
 - category: basic-concepts
-   articles:
+  articles:
       - environments-to-organize-workloads-and-users.md
       - main-cloud.ca-entities.md
       - what-is-an-instance-template.md
       - what-is-a-vpc.md
 - category: compute-service
-   articles:
+  articles:
       - working-with-instances.md
       - add-storage-to-instance.md
       - working-with-ssh-keys.md
       - configure-port-forwarding
 - category: object-storage-service
-   articles:
+  articles:
       - object-storage-terminology.md
 - category: administration
-   articles:
+  articles:
       - single_entrypoint.md
 - category: how-to
-   articles:
+  articles:
       - create-site-to-site-vpn-on-vpc.md
 - category:  vpn
-   articles:
+  articles:
       - cca-using-remote-access-ikev2.md
       - cca-client-config-mac.md
       - cca-client-config-windows.md
