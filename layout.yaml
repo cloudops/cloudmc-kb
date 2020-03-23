@@ -8,6 +8,7 @@ categories:
       - main-cloud.ca-entities
       - what-is-an-instance-template
       - what-is-a-vpc
+      - system-roles
 - category: compute-service
   articles:
       - working-with-instances
@@ -19,7 +20,7 @@ categories:
       - object-storage-terminology
 - category: administration
   articles:
-      - single_entrypoint
+      - single-entrypoint
 - category: how-to
   articles:
       - create-site-to-site-vpn-on-vpc
