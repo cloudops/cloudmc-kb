@@ -14,6 +14,6 @@ Un **rôle** est une collection nommée de permissions à l’intérieur d’une
 
 Un **service** est une abstraction à travers laquelle un utilisateur acquiert et interagit avec ses ressources virtuelles.
 
-Un **environnement** est un carré de sable au sein d’un service où les utilisateurs peuvent allouer et partager des ressources. Voyez [Les environnements pour compartimenter charges de travail et utilisateurs](environnements-pour-compartimenter-charges-de-travail-et-utilisateurs) pour en savoir plus sur ce concept.
+Un **environnement** est un carré de sable au sein d’un service où les utilisateurs peuvent allouer et partager des ressources. Voyez [Les environnements pour compartimenter charges de travail et utilisateurs](environments-to-organize-workloads-and-users.md) pour en savoir plus sur ce concept.
 
 Les **permissions** donnent accès à certaines fonctionalités de cloud.ca. Il existe deux types de permissions. Les **permissions de système** contrôlent l’accès aux fonctions intrinsèques de la console cloud.ca, tandis que les **permissions d’environnement** donnent accès aux ressources virtuelles et opérations spécifiques d’un service.

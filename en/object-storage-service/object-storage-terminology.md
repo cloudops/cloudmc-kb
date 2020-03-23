@@ -3,7 +3,6 @@ title: Object Storage - Terminology
 slug: object-storage-terminology
 ---
 
-# Object Storage - Terminology
 
 **Swift:** Name of the software we use to provide the object storage service.
 
