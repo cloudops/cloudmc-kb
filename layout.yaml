@@ -1,20 +1,22 @@
 categories:
 - category: administration
     articles:
-      - single_entrypoint
+      - single_entrypoint.md
   - category: basic-concepts
     articles:
-      - environments-to-organize-workloads-and-users
-      - main-cloud.ca-entities
+      - environments-to-organize-workloads-and-users.md
+      - main-cloud.ca-entities.md
+      - what-is-an-instance-template.md
+      - what-is-a-vpc.md
   - category: how-to
     articles:
-      - create-site-to-site-vpn-on-vpc
+      - create-site-to-site-vpn-on-vpc.md
   - category: object-storage-service
     articles:
-      - object-storage-terminology
+      - object-storage-terminology.md
   - category:  vpn
     articles:
-      - cca-using-remote-access-ikev2
-      - cca-client-config-mac
-      - cca-client-config-windows
-      - cca-client-config-ubuntu
+      - cca-using-remote-access-ikev2.md
+      - cca-client-config-mac.md
+      - cca-client-config-windows.md
+      - cca-client-config-ubuntu.md
