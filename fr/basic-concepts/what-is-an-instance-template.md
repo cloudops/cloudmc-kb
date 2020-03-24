@@ -1,5 +1,5 @@
 ---
-title: 'Qu'est-ce qu'un modèle d'instance?'
+title: 'Qu\'est-ce qu\'un modèle d\'instance?'
 slug: qu-est-ce-qu-un-modele-d-instance
 ---
 
