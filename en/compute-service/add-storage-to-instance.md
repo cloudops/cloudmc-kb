@@ -1,5 +1,5 @@
 ---
-title: Adding storage capacity to an instance
+title: 'Adding storage capacity to an instance'
 slug: adding-storage-capacity-to-an-instance
 ---
 

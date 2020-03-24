@@ -1,5 +1,5 @@
 ---
-title: Configuration Client :  Ubuntu 18.04
+title: 'Configuration Client :  Ubuntu 18.04'
 slug: cca-config-client-ubuntu
 ---
 

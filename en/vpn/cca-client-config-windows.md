@@ -1,5 +1,5 @@
 ---
-title: Client Configuration: Windows
+title: 'Client Configuration: Windows'
 slug: cca-client-config-windows
 ---
 

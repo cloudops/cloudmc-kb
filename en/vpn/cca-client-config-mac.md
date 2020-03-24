@@ -1,8 +1,8 @@
-<!-- ---
-title: Client Configuration: macOS
+---
+title: 'Client Configuration: macOS'
 slug: cca-client-config-mac
 ---
--->
+
 This operating system provides a native IKEv2 VPN client. Here are the steps to set up a VPN connection:
 
 #### Install the certificate

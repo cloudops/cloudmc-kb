@@ -1,5 +1,5 @@
 ---
-title: Connect to a VPC using remote access VPN (IKEv2)
+title: 'Connect to a VPC using remote access VPN (IKEv2)'
 slug: connect-to-a-remote-management-vpn-ikev2
 ---
 

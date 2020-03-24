@@ -1,5 +1,5 @@
 ---
-title: Working with SSH Keys
+title: 'Working with SSH Keys'
 slug: working-with-ssh-keys
 ---
 

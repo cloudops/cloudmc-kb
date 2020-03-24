@@ -1,5 +1,5 @@
 ---
-title: Using Environments to organize users & workloads
+title: 'Using Environments to organize users & workloads'
 slug: environments-to-organize-workloads-and-users
 ---
 
