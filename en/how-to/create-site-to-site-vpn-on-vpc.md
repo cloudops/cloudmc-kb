@@ -7,7 +7,7 @@ slug: create-site-to-site-vpn-on-vpc
 
 Site to Site IPsec VPN is useful to interconnect a VPC to a Remote office, another data-center or two VPCs together.
 
-To configure VPN, we need to [install and configure Cloudmonkey](install-cloudmonkey.md) to interact with cloud.ca API via command line.
+To configure VPN, we need to [install and configure Cloudmonkey](install-and-config-cloudmonkey.md) to interact with cloud.ca API via command line.
 
 
 

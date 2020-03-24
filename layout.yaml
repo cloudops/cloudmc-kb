@@ -19,12 +19,16 @@ categories:
 - category: object-storage-service
   articles:
       - object-storage-terminology.md
+      - use-s3-api-for-object-storage.md
+      - how-to-obtain-object-storage-api-credentials.md
+      - manage-my-objects-using-the-swift-command-line-client.md
 - category: administration
   articles:
       - single-entrypoint.md
 - category: how-to
   articles:
       - create-site-to-site-vpn-on-vpc.md
+      - install-and-config-cloudmonkey.md
 - category:  vpn
   articles:
       - cca-using-remote-access-ikev2.md
