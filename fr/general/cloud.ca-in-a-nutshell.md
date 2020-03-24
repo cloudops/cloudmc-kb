@@ -1,5 +1,5 @@
 ---
-title: cloud.ca en bref
+title: 'cloud.ca en bref'
 slug: cloud-ca-en-bref
 ---
 

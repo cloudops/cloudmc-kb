@@ -1,5 +1,5 @@
 ---
-title: Working with Instances
+title: 'Working with Instances'
 slug: working-with-instances
 ---
 

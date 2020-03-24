@@ -1,5 +1,5 @@
 ---
-title: Main cloud.ca entities
+title: 'Main cloud.ca entities'
 slug: main-cloud.ca-entities
 ---
 

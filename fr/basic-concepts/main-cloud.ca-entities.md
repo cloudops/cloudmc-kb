@@ -1,5 +1,5 @@
 ---
-title: Entités principales de cloud.ca
+title: 'Entités principales de cloud.ca'
 slug: entites-principales-cloud.ca
 ---
 

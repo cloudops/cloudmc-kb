@@ -1,5 +1,5 @@
 ---
-title: Connexion à un VPC par une connexion VPN sécurisée
+title: 'Connexion à un VPC par une connexion VPN sécurisée'
 slug: connexion-a-un-vpc-par-un-vpn-a-distance-ikev2
 ---
 

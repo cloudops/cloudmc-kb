@@ -1,5 +1,5 @@
 ---
-title: Gestion des instances
+title: 'Gestion des instances'
 slug: gestion-des-instances
 ---
 

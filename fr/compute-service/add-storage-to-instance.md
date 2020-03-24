@@ -1,5 +1,5 @@
 ---
-title: Ajouter de la capacité de stockage à une instance
+title: 'Ajouter de la capacité de stockage à une instance'
 slug: ajouter-de-la-capacite-de-stockage-une-instance
 ---
 

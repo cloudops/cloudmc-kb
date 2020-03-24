@@ -1,5 +1,5 @@
 ---
-title: What is an Instance Template?
+title: 'What is an Instance Template?'
 slug: what-is-an-instance-template
 ---
 
