@@ -1,6 +1,6 @@
 ---
 title: "Presenting CloudMC Services and URLs: Single vs Multiple entry-point"
-slug: single-entry-point
+slug: single-entrypoint
 ---
 
 
