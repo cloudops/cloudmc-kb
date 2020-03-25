@@ -1,5 +1,5 @@
 ---
-title: 'Restreindre l\'accès aux utilisateurs'
+title: "Restreindre l'accès aux utilisateurs"
 slug: restreindre-l-acces-aux-utilisateurs
 ---
 

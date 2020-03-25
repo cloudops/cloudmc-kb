@@ -1,5 +1,5 @@
 ---
-title: 'Install and configure CloudMonkey'
+title: "Install and configure CloudMonkey"
 slug:  install-and-config-cloudmonkey
 ---
 

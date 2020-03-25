@@ -1,5 +1,5 @@
 ---
-title:  'cloud.ca in a nutshell'
+title:  "cloud.ca in a nutshell"
 slug: cloud-ca-in-a-nutshell
 ---
 

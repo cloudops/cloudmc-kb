@@ -1,5 +1,5 @@
 ---
-title: 'Display dates in your preferred time zone'
+title: "Display dates in your preferred time zone"
 slug: display-dates-in-your-preferred-time-zone
 ---
 

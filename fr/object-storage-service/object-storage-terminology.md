@@ -1,5 +1,5 @@
 ---
-title: 'Stockage Objet - Terminologie'
+title: "Stockage Objet - Terminologie"
 slug: stockage-objet-terminologie
 ---
 

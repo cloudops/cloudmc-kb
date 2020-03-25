@@ -1,5 +1,5 @@
 ---
-title: 'Use S3 API for Object Storage'
+title: "Use S3 API for Object Storage"
 slug: use-s3-api-for-object-storage
 ---
 

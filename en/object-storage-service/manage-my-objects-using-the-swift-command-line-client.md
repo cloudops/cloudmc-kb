@@ -1,5 +1,5 @@
 ---
-title: 'Manage my objects using the Swift command-line client'
+title: "Manage my objects using the Swift command-line client"
 slug: manage-my-objects-using-the-swift-command-line-client
 ---
 

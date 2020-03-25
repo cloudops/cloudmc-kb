@@ -1,5 +1,5 @@
 ---
-title: 'Déployer une machine virtuelle à l\'aide de Terraform'
+title: "Déployer une machine virtuelle à l'aide de Terraform"
 slug: deployer-une-machine-virtuelle-a-l-aide-de-terraform
 ---
 

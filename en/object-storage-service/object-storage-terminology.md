@@ -1,5 +1,5 @@
 ---
-title: 'Object Storage - Terminology'
+title: "Object Storage - Terminology"
 slug: object-storage-terminology
 ---
 

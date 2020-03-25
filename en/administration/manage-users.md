@@ -1,5 +1,5 @@
 ---
-title: 'Manage users'
+title: "Manage users"
 slug: manage-users
 ---
 

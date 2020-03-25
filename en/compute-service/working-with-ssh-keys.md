@@ -1,9 +1,9 @@
 ---
-title: 'Working with SSH Keys'
+title: "Working with SSH Keys"
 slug: working-with-ssh-keys
 ---
 
-
+"
 Instead of using only password to login your instance, cloud.ca supports the push of SSH keys. This article covers the different prerequisites for this feature to work, and how to generate and upload a SSH key.
 
 ### Prerequisites
