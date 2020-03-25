@@ -1,5 +1,5 @@
 ---
-title: 'Utiliser l\'API de S3 pour le stockage d\'objets'
+title: "Utiliser l'API de S3 pour le stockage d'objets"
 slug: utiliser-l-api-de-s3-pour-le-stockage-d-objets
 ---
 

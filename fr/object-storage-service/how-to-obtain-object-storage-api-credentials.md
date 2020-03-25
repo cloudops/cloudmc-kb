@@ -1,5 +1,5 @@
 ---
-title: 'Comment obtenir les informations pour l\'API de stockage objet?'
+title: "Comment obtenir les informations pour l'API de stockage objet?"
 slug: comment-obtenir-les-informations-pour-api-de-stockage-objet
 ---
 

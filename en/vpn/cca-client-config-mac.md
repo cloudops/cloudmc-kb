@@ -1,5 +1,5 @@
 ---
-title: 'Client Configuration: macOS'
+title: "Client Configuration: macOS"
 slug: cca-client-config-mac
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'How to obtain Object Storage API credentials?'
+title: "How to obtain Object Storage API credentials?"
 slug: how-to-obtain-object-storage-api-credentials
 ---
 

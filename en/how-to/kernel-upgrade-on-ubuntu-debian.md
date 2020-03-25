@@ -1,5 +1,5 @@
 ---
-title: 'Kernel upgrade on Ubuntu-based and Debian-based instances'
+title: "Kernel upgrade on Ubuntu-based and Debian-based instances"
 slug: kernel-upgrade-on-ubuntu-debian
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Manage my objects using the self-service portal'
+title: "Manage my objects using the self-service portal"
 slug: manage-my-objects-using-the-self-service-portal
 ---
 

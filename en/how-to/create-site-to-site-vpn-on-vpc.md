@@ -1,5 +1,5 @@
 ---
-title: 'Create Site to Site IPsec VPN endpoint on a VPC'
+title: "Create Site to Site IPsec VPN endpoint on a VPC"
 slug: create-site-to-site-vpn-on-vpc
 ---
 

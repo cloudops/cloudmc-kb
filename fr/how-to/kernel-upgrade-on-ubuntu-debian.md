@@ -1,5 +1,5 @@
 ---
-title: 'Mise à niveau du noyau sur instance basé sur Ubuntu et Debian'
+title: "Mise à niveau du noyau sur instance basé sur Ubuntu et Debian"
 slug: mise-niveau-du-noyau-sur-ubuntu-debian
 ---
 

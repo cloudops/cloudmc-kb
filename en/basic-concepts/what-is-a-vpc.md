@@ -1,5 +1,5 @@
 ---
-title: 'What is a VPC?'
+title: "What is a VPC?"
 slug: what-is-a-vpc
 ---
 
