@@ -24,7 +24,7 @@ categories:
       - manage-my-objects-using-the-swift-command-line-client.md
 - category: administration
   articles:
-      - single-entrypoint.md
+      - single-entrypoint
       - display-dates-in-your-preferred-time-zone.md
       - restrict-user-access.md
       - manage-users.md
