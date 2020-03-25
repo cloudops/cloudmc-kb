@@ -25,11 +25,18 @@ categories:
 - category: administration
   articles:
       - single-entrypoint.md
+      - display-dates-in-your-preferred-time-zone.md
+      - restrict-user-access.md
+      - manage-users.md
 - category: how-to
   articles:
       - create-site-to-site-vpn-on-vpc.md
       - install-and-config-cloudmonkey.md
-- category:  vpn
+      - kernel-upgrade-on-ubuntu-debian.md
+- category: automation
+  articles:
+      - deploy-virtual-machine-using-terraform.md
+- category: vpn
   articles:
       - cca-using-remote-access-ikev2.md
       - cca-client-config-mac.md
