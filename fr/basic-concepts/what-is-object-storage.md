@@ -1,5 +1,5 @@
 ---
-title: 'Qu\'est-ce que le stockage objet?'
+title: "Qu'est-ce que le stockage objet?"
 slug: qu-est-ce-que-le-stockage-objet
 ---
 
