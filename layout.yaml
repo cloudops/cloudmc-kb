@@ -19,13 +19,24 @@ categories:
 - category: object-storage-service
   articles:
       - object-storage-terminology.md
+      - use-s3-api-for-object-storage.md
+      - how-to-obtain-object-storage-api-credentials.md
+      - manage-my-objects-using-the-swift-command-line-client.md
 - category: administration
   articles:
       - single-entrypoint.md
+      - display-dates-in-your-preferred-time-zone.md
+      - restrict-user-access.md
+      - manage-users.md
 - category: how-to
   articles:
       - create-site-to-site-vpn-on-vpc.md
-- category:  vpn
+      - install-and-config-cloudmonkey.md
+      - kernel-upgrade-on-ubuntu-debian.md
+- category: automation
+  articles:
+      - deploy-virtual-machine-using-terraform.md
+- category: vpn
   articles:
       - cca-using-remote-access-ikev2.md
       - cca-client-config-mac.md
