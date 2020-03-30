@@ -3,7 +3,7 @@ title: "Gérer mes objets avec l'outil de ligne de commande Swift"
 slug: gerer-mes-objets-avec-outil-de-ligne-de-commande-swift
 ---
 
-L'outil de ligne de command fourni par Swift est une façon pratique pour interagir avec vos environnements de stockage objet. Grâce à de simple commandes, vous pouvez gérer vos récipients et objets à partir de scripts, permettant ainsi d'automatiser des tâches répétitives. D'autres alternatives valides sont l'utilisation de l'[interface web du portail](manage-my-objects-using-the-self-service-portal.md) et l'utilisation de l'API du service de stockage objet.
+L'outil de ligne de command fourni par Swift est une façon pratique pour interagir avec vos environnements de stockage objet. Grâce à de simple commandes, vous pouvez gérer vos **récipients** et **objets** à partir de scripts, permettant ainsi d'automatiser des tâches répétitives. D'autres alternatives valides sont l'utilisation de l'[interface web du portail](manage-my-objects-using-the-self-service-portal.md) et l'utilisation de l'API du service de stockage objet.
 
 ### Configurer votre environnement
 
