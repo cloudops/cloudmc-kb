@@ -21,12 +21,15 @@ categories:
       - configure-port-forwarding.md
       - working-with-vpcs.md
       - working-with-cloudstack-compute-apis.md
+      - working-with-snapshots-and-recovery-points.md
+      - working-with-instance-templates.md
 - category: object-storage-service
   articles:
       - object-storage-terminology.md
       - use-s3-api-for-object-storage.md
       - how-to-obtain-object-storage-api-credentials.md
       - manage-my-objects-using-the-swift-command-line-client.md
+      - manage-my-objects-using-the-object-storage-api.md
 - category: reporting
   articles:
       - generate-a-usage-report.md
