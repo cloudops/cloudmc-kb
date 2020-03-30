@@ -4,7 +4,7 @@ slug: gestion-des-vpcs
 ---
 
 
-Pour une entrée en matière à propos des VPCs, veuillez vous référer à l'[article suivant](what-is-a-vpc.md).
+Pour une entrée en matière à propos des VPCs, veuillez vous référer à l'[article suivant](../basic-concepts/what-is-a-vpc.md).
 
 ### Création d'un VPC
 
