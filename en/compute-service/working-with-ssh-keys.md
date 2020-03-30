@@ -3,7 +3,7 @@ title: "Working with SSH Keys"
 slug: working-with-ssh-keys
 ---
 
-"
+
 Instead of using only password to login your instance, cloud.ca supports the push of SSH keys. This article covers the different prerequisites for this feature to work, and how to generate and upload a SSH key.
 
 ### Prerequisites
@@ -11,7 +11,7 @@ This feature will work properly only if:
 - Your template has the SSH Key option enabled. *AND*...
 - Your template contains either:
    - A properly installed and configured cloud-init package. Our public templates have that already.
-   - You installed the script cloud-set-guest-sshkey from the Apache CloudStack community. See [the CloudStack documentation](http://cloudstack-administration.readthedocs.org/en/4.4/virtual_machines.html?highlight=authentication#using-ssh-keys-for-authentication).
+   - You installed the script cloud-set-guest-sshkey from the Apache CloudStack community. See the [CloudStack documentation](http://cloudstack-administration.readthedocs.org/en/4.4/virtual_machines.html?highlight=authentication#using-ssh-keys-for-authentication).
    - You installed a custom made script capable of manipulating the SSH Keys.
 
 ### Generate a SSH Key
