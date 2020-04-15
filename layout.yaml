@@ -1,7 +1,7 @@
 categories:
 - category: general
   featured: true
-  icon: fa fa-task
+  icon: fa fa-heart
   articles:
       - cloud.ca-in-a-nutshell.md
       - 10-noteworthy-improvements-in-the-new-cloud-ca-portal.md
